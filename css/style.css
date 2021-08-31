@@ -1,0 +1,142 @@
+body {
+  margin: 0;
+  color: #40514e;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  line-height: 2;
+}
+
+.top-container {
+  padding-top: 100px;
+  background-color: #eaf6f6;
+  position: relative;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0;
+  font-family: "Sacramento", cursive;
+  color: #66bfbf;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #66bfbf;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #66bfbf;
+  font-weight: bold;
+}
+
+p {
+  font-weight: bold;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 80px;
+  right: 220px;
+}
+
+.button-cloud {
+  position: absolute;
+  left: 220px;
+  bottom: 300px;
+}
+
+.profile {
+  margin: 80px auto 0;
+  width: 30%;
+}
+
+hr {
+  width: 5%;
+  margin: 100px auto;
+  border: dotted 8px #eaf6f6;
+  border-bottom-style: none;
+}
+.nandakyaw {
+  border-radius: 50%;
+  width: 160px;
+}
+.computer {
+  border-radius: 50%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chillies {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.contact-me {
+  width: 40%;
+  margin: 0 auto 100px;
+}
+
+.contact-message {
+  margin-bottom: 60px;
+}
+
+.btn {
+  background: #2c95db;
+  background-image: -webkit-linear-gradient(top, #2c95db, #134463);
+  background-image: -moz-linear-gradient(top, #2c95db, #134463);
+  background-image: -ms-linear-gradient(top, #2c95db, #134463);
+  background-image: -o-linear-gradient(top, #2c95db, #134463);
+  background-image: linear-gradient(to bottom, #2c95db, #134463);
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 50px 0;
+}
+
+.footer-link {
+  text-decoration: none;
+  color: #11999e;
+  padding: 0px 20px;
+}
+
+.footest {
+  color: #eaf6f6;
+  padding: 0;
+  font-size: 0.8rem;
+  font-weight: lighter;
+}
